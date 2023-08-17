@@ -1,0 +1,1 @@
+If the comment is removed, it can be run on sql.
